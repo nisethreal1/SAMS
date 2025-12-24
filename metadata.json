@@ -1,0 +1,7 @@
+{
+  "name": "SAMS Project Proposal Presentation",
+  "description": "An interactive, professional slide deck for the Student Attendance Management System (SAMS) project proposal, featuring Agile methodology breakdowns and AI-powered speaker note generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
